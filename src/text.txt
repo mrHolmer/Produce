@@ -1,0 +1,870 @@
+<tr>
+			<td>Asparagus</td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td>Beans, String *</td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td> </td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td>Beans, Shell</td>
+			<td style="background-color:#c17915"> </td>
+			<td style="background-color:#c17915"> </td>
+			<td style="background-color:#c17915"> </td>
+			<td style="background-color:#c17915"> </td>
+			<td style="background-color:#c17915"> </td>
+			<td style="background-color:#c17915"> </td>
+			<td style="background-color:#c17915"> </td>
+			<td style="background-color:#c17915"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+		</tr>
+		<tr>
+			<td>Beets</td>
+			<td style="background-color:#c17915"> </td>
+			<td style="background-color:#c17915"> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#c17915"> </td>
+		</tr>
+		<tr>
+			<td>Beet Greens</td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td>Broccoli</td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td>Brussels Sprout</td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td>Cabbage</td>
+			<td style="background-color:#c17915"> </td>
+			<td style="background-color:#c17915"> </td>
+			<td style="background-color:#c17915"> </td>
+			<td> </td>
+			<td> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#c17915"> </td>
+		</tr>
+		<tr>
+			<td>Carrots</td>
+			<td style="background-color:#c17915"> </td>
+			<td style="background-color:#c17915"> </td>
+			<td style="background-color:#c17915"> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#c17915"> </td>
+		</tr>
+		<tr>
+			<td>Cauliflower</td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td>Celery</td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td> </td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td>Collard Greens</td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+		</tr>
+		<tr>
+			<td>Corn *</td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td> </td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td>Cucumbers *</td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+		</tr>
+		<tr>
+			<th> </th>
+			<th>Jan</th>
+			<th>Feb</th>
+			<th>Mar</th>
+			<th>Apr</th>
+			<th>May</th>
+			<th>Jun</th>
+			<th>Jul</th>
+			<th>Aug</th>
+			<th>Sep</th>
+			<th>Oct</th>
+			<th>Nov</th>
+			<th>Dec</th>
+		</tr>
+		<tr>
+			<td>Eggplant *</td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td> </td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td>Fennel</td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td>Herbs</td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td> </td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td>Kale</td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td> </td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td>Lettuce *</td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td> </td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td>Leeks</td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#c17915"> </td>
+			<td style="background-color:#c17915"> </td>
+		</tr>
+		<tr>
+			<td>Lima Beans *</td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td> </td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td>Mesclun</td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td>Onions</td>
+			<td style="background-color:#c17915"> </td>
+			<td style="background-color:#c17915"> </td>
+			<td style="background-color:#c17915"> </td>
+			<td style="background-color:#c17915"> </td>
+			<td style="background-color:#c17915"> </td>
+			<td style="background-color:#c17915"> </td>
+			<td style="background-color:#c17915"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#c17915"> </td>
+			<td style="background-color:#c17915"> </td>
+		</tr>
+		<tr>
+			<td>Parsnips</td>
+			<td style="background-color:#c17915"> </td>
+			<td style="background-color:#c17915"> </td>
+			<td style="background-color:#c17915"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+		</tr>
+		<tr>
+			<td>Peas *</td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td> </td>
+			<td> </td>
+		</tr>
+		<tr>
+			<th> </th>
+			<th>Jan</th>
+			<th>Feb</th>
+			<th>Mar</th>
+			<th>Apr</th>
+			<th>May</th>
+			<th>Jun</th>
+			<th>Jul</th>
+			<th>Aug</th>
+			<th>Sep</th>
+			<th>Oct</th>
+			<th>Nov</th>
+			<th>Dec</th>
+		</tr>
+		<tr>
+			<td>Peppers *</td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td> </td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td>Potatoes</td>
+			<td style="background-color:#c17915"> </td>
+			<td style="background-color:#c17915"> </td>
+			<td style="background-color:#c17915"> </td>
+			<td style="background-color:#c17915"> </td>
+			<td style="background-color:#c17915"> </td>
+			<td style="background-color:#c17915"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#c17915"> </td>
+			<td style="background-color:#c17915"> </td>
+		</tr>
+		<tr>
+			<td>Pumpkins</td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#c17915"> </td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td>Radishes *</td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td>Rhubarb</td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td>Scallions</td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td>Spinach</td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td> </td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td>Squash, Summer*</td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td> </td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td>Squash, Winter</td>
+			<td style="background-color:#c17915"> </td>
+			<td style="background-color:#c17915"> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#c17915"> </td>
+			<td style="background-color:#c17915"> </td>
+		</tr>
+		<tr>
+			<td>Swiss Chard</td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td> </td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td>Tomatoes</td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td> </td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td>Turnips</td>
+			<td style="background-color:#c17915"> </td>
+			<td style="background-color:#c17915"> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#c17915"> </td>
+			<td style="background-color:#c17915"> </td>
+		</tr>
+		<tr>
+			<td>Turnip Greens</td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+		</tr>
+		<tr>
+			<th> </th>
+			<th>Jan</th>
+			<th>Feb</th>
+			<th>Mar</th>
+			<th>Apr</th>
+			<th>May</th>
+			<th>Jun</th>
+			<th>Jul</th>
+			<th>Aug</th>
+			<th>Sep</th>
+			<th>Oct</th>
+			<th>Nov</th>
+			<th>Dec</th>
+		</tr>
+		<tr>
+			<td><strong>Fruits:</strong></td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td>Apples</td>
+			<td style="background-color:#c17915"> </td>
+			<td style="background-color:#c17915"> </td>
+			<td style="background-color:#c17915"> </td>
+			<td style="background-color:#c17915"> </td>
+			<td style="background-color:#c17915"> </td>
+			<td style="background-color:#c17915"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#c17915"> </td>
+			<td style="background-color:#c17915"> </td>
+		</tr>
+		<tr>
+			<td>Blackberries</td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td style="background-color:#78932a"> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td>Blueberries</td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td>Cantaloupes</td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td>Cherries</td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td style="background-color:#78932a"> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td>Currants</td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td style="background-color:#78932a"> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td>Grapes</td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td> </td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td>Peaches</td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td>Pears</td>
+			<td style="background-color:#c17915"> </td>
+			<td style="background-color:#c17915"> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#c17915"> </td>
+			<td style="background-color:#c17915"> </td>
+		</tr>
+		<tr>
+			<td>Plums</td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td>Prunes</td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td>Strawberries</td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td>Raspberries *</td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td style="background-color:#78932a"> </td>
+			<td> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td> </td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td>Watermelon</td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td style="background-color:#78932a"> </td>
+			<td style="background-color:#78932a"> </td>
+			<td> </td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+		</tr>
