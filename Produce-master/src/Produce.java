@@ -2,7 +2,7 @@ public class Produce {
     private String line;
     private String name;
     private boolean[] available;
-    private boolean[] inSeason;
+    public boolean[] inSeason;
     private int totalAvailable;
     private int totalInSeason;
 

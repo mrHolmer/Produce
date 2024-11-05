@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class Parser {
     public static ArrayList<Produce> produce;
     public static void main(String[] args) throws FileNotFoundException {
-        File f = new File("src/text.txt");
+        File f = new File("Produce-master/src/text.txt");
         Scanner s = new Scanner(f);
         System.out.println(s);
         String string = s.nextLine();
