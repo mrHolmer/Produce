@@ -12,11 +12,14 @@ public class ShoppingList
             if (p.getAvailable()[month - 1]) list.add(p);
         }
 
-
-        sortAvailable();
-        sortInSeason();
         availableSort();
+
+        seasonSort();
+
         freshSort();
+
+
+
 
     }
 
@@ -25,7 +28,8 @@ public class ShoppingList
         for(int i = 1; i < list.size(); i++)
         {
             int index = i;
-            while(index > 0 && list.get(index - 1).getTotalAvailable() > list.get(index).getTotalAvailable())
+            Produce p = list.get(index);
+            while(index > 0 && list.get(index - 1).getTotalAvailable() > p.getTotalAvailable())
             {
                 index--;
             }
@@ -39,13 +43,29 @@ public class ShoppingList
     public void freshSort()
     {
         for(int i = 1; i < list.size(); i++) {
-            Produce right = list.get(i);
-            Produce left = list.get(i - 1);
+            Produce p = list.get(i);
             int index = i;
-            while (index > 0 && !list.get(index - 1).inSeason[month]) {
+            while (index > 0 && !list.get(index - 1).inSeason[month] && p.inSeason[month]) {
                 index--;
             }
             list.add(index, list.remove(i));
+        }
+    }
+
+    public void seasonSort()
+    {
+        for(int i = 1; i < list.size(); i++)
+        {
+            int index = i;
+            Produce p = list.get(i);
+            while(index > 0 && list.get(index - 1).getTotalInSeason() > p.getTotalInSeason())
+            {
+                index--;
+            }
+            if(index != i)
+            {
+                list.add(index, list.remove(i));
+            }
         }
     }
 
